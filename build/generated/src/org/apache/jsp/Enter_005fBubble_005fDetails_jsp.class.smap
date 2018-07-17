@@ -1,0 +1,14 @@
+SMAP
+Enter_005fBubble_005fDetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 Enter_Bubble_Details.jsp
+Enter_Bubble_Details.jsp
++ 1 header.html
+header.html
+*L
+4,3:49
+1#1,130:52
+6#0,74:182
+*E

@@ -1,0 +1,14 @@
+SMAP
+Enter_005fBinary_005fDetails_jsp.java
+JSP
+*S JSP
+*F
++ 0 Enter_Binary_Details.jsp
+Enter_Binary_Details.jsp
++ 1 header.html
+header.html
+*L
+4,3:49
+1#1,134:51
+6#0,75:185
+*E
